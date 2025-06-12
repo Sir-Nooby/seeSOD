@@ -90,7 +90,7 @@ tutorial_texts = [
     ["Use WASD to move!", "or the arrow keys!", 3000, 20, 15],
     ["Above you is the score", "The longer you survive, the more you get", 7000, 20, 12],
     ["Bullets will spawn", "Dodge them! You have three lives!", 8000, 20, 12],
-    ["Collect sodlings to survive", "Any more than two will kill you", 6000, 18, 12],
+    ["Collect sodlings to survive", "Any more than two on screen will kill you", 6000, 18, 12],
     ["I think you are ready", "Top those leaderboards", 4000, 20, 15]
 ]
 start_hint_x, start_key_x, intro_fade, intro_slide = 105, 90, 255, False
